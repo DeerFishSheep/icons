@@ -38,3 +38,26 @@
 ## 应用图标/
 
 迁自同一 `icon/` 根目录的零散应用/工具图标，共 36 张。
+
+文件名已改为中文应用名；英文品牌（ChatGPT、Pixiv、Wise、Uni、Maya、Ozan、Oldubil、Soul、V-preca、NSFW）保留原名。
+
+| 中文名 | 原文件名 |
+|---|---|
+| 60秒读懂世界 | 60s.png |
+| 美国银行 | boa.png |
+| 每日 | daily.png |
+| 日历 | date.png |
+| 钉钉 | dingtalk.png |
+| 豆瓣 | douban.png |
+| 黑料 / 黑料-2 | heiliao / heiliao-2 |
+| 热搜 | hot.png |
+| 建行生活 | jhsh.png |
+| 美团 / 美团外卖 | meituan / wm_meituan |
+| 猫咪 / 猫咪-2 | miao / miao_2 |
+| 摸鱼 | moyu.png |
+| 加油 | oil.png |
+| 一言 | one.png |
+| 三井住友银行 | SMBC.png |
+| 贴吧 | tieba.png |
+| 小红书 | xiaohongshu.png |
+| 黄历 / 黄历-2 | YellowCalendar / _2 |
