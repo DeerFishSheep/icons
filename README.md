@@ -7,7 +7,6 @@
 | 目录/文件 | 说明 |
 |---|---|
 | `deepseek-harness.png` / `.webp` | DeepSeek Harness 图标 (1024x1024) |
-| `dog_waijiao.png` | dog_waijiao (300x300) |
 | `网易云.png` | 网易云 (512x512) |
 | `百度网盘.png` | 百度网盘 (512x512) |
 
@@ -33,6 +32,12 @@
 | 贴吧 | tieba |
 | 小红书 | xiaohongshu |
 | 黄历 / 黄历-2 | YellowCalendar / YellowCalendar_2 |
+
+## 其他图标/
+
+| 文件 | 说明 |
+|---|---|
+| `dog_waijiao.png` | dog_waijiao (300x300) |
 
 ## 动漫图标/
 
