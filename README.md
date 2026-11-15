@@ -10,6 +10,12 @@
 | `bilibili-pink.png` | 哔哩哔哩 粉色版图标 (1024x1024) |
  | `deepseek-harness.png` | DeepSeek Harness 图标 (1024x1024) |
  | `网易云.png` | 网易云 (512x512) |
+| `百度.png` | 百度 App Store 官方图标 (512x512) |
+| `微信.png` | 微信 App Store 官方图标 (512x512) |
+| `Google.png` | Google App Store 官方图标 (512x512) |
+| `Telegram.png` | Telegram App Store 官方图标 (512x512) |
+| `YouTube.png` | YouTube App Store 官方图标 (512x512) |
+| `GitHub.png` | GitHub App Store 官方图标 (512x512) |
  | `百度网盘.png` | 百度网盘 (512x512) |
  
  其余迁自 [Quantumult](https://github.com/DeerFishSheep/Quantumult) 的 `icon/` 根目录，文件名已改为中文应用名；
