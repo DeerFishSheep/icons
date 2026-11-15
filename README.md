@@ -69,3 +69,31 @@
  | `数码宝贝` | 57 | Digimon |
  | `宝可梦GIF` | 56 | PokemonGif |
  | `变形金刚` | 48 | Transformers |
+
+## 地区旗帜/
+
+常用国家/地区的同款矩形旗帜（320px，来自 flagcdn，四角做了圆角处理）。
+
+| 文件 | 说明 |
+|---|---|
+| `香港.png` `台湾.png` `日本.png` `韩国.png` `新加坡.png` `美国.png` `英国.png` `德国.png` `荷兰.png` `法国.png` `加拿大.png` `澳大利亚.png` | 320x213 |
+| `马来西亚.png` `泰国.png` `越南.png` `菲律宾.png` `印尼.png` `印度.png` `土耳其.png` `俄罗斯.png` | 320x213 |
+| `阿联酋.png` `巴西.png` `瑞士.png` `瑞典.png` `意大利.png` `西班牙.png` | 320x213 |
+
+## 图标集
+
+每个目录下有一份 `图标集.json`，App 里填这个地址就能一次拉整个目录的图标：
+
+- 应用图标：`https://raw.githubusercontent.com/DeerFishSheep/icons/main/应用图标/图标集.json`
+- 地区旗帜：`https://raw.githubusercontent.com/DeerFishSheep/icons/main/地区旗帜/图标集.json`
+
+格式：
+
+```json
+{
+  "name": "应用图标",
+  "icons": [
+    { "name": "YouTube", "url": "https://.../应用图标/YouTube.png" }
+  ]
+}
+```

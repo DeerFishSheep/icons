@@ -1,0 +1,109 @@
+{
+  "name": "地区旗帜",
+  "icons": [
+    {
+      "name": "俄罗斯",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E4%BF%84%E7%BD%97%E6%96%AF.png"
+    },
+    {
+      "name": "加拿大",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E5%8A%A0%E6%8B%BF%E5%A4%A7.png"
+    },
+    {
+      "name": "印尼",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E5%8D%B0%E5%B0%BC.png"
+    },
+    {
+      "name": "印度",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E5%8D%B0%E5%BA%A6.png"
+    },
+    {
+      "name": "台湾",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E5%8F%B0%E6%B9%BE.png"
+    },
+    {
+      "name": "土耳其",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E5%9C%9F%E8%80%B3%E5%85%B6.png"
+    },
+    {
+      "name": "巴西",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E5%B7%B4%E8%A5%BF.png"
+    },
+    {
+      "name": "德国",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E5%BE%B7%E5%9B%BD.png"
+    },
+    {
+      "name": "意大利",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E6%84%8F%E5%A4%A7%E5%88%A9.png"
+    },
+    {
+      "name": "新加坡",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E6%96%B0%E5%8A%A0%E5%9D%A1.png"
+    },
+    {
+      "name": "日本",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E6%97%A5%E6%9C%AC.png"
+    },
+    {
+      "name": "法国",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E6%B3%95%E5%9B%BD.png"
+    },
+    {
+      "name": "泰国",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E6%B3%B0%E5%9B%BD.png"
+    },
+    {
+      "name": "澳大利亚",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A.png"
+    },
+    {
+      "name": "瑞典",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E7%91%9E%E5%85%B8.png"
+    },
+    {
+      "name": "瑞士",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E7%91%9E%E5%A3%AB.png"
+    },
+    {
+      "name": "美国",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E7%BE%8E%E5%9B%BD.png"
+    },
+    {
+      "name": "英国",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E8%8B%B1%E5%9B%BD.png"
+    },
+    {
+      "name": "荷兰",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E8%8D%B7%E5%85%B0.png"
+    },
+    {
+      "name": "菲律宾",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E8%8F%B2%E5%BE%8B%E5%AE%BE.png"
+    },
+    {
+      "name": "西班牙",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E8%A5%BF%E7%8F%AD%E7%89%99.png"
+    },
+    {
+      "name": "越南",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E8%B6%8A%E5%8D%97.png"
+    },
+    {
+      "name": "阿联酋",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E9%98%BF%E8%81%94%E9%85%8B.png"
+    },
+    {
+      "name": "韩国",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E9%9F%A9%E5%9B%BD.png"
+    },
+    {
+      "name": "香港",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E9%A6%99%E6%B8%AF.png"
+    },
+    {
+      "name": "马来西亚",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%9C%B0%E5%8C%BA%E6%97%97%E5%B8%9C/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A.png"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "name": "应用图标",
+  "icons": [
+    {
+      "name": "60秒读懂世界",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/60%E7%A7%92%E8%AF%BB%E6%87%82%E4%B8%96%E7%95%8C.png"
+    },
+    {
+      "name": "ChatGPT-2",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/ChatGPT-2.png"
+    },
+    {
+      "name": "ChatGPT-3",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/ChatGPT-3.png"
+    },
+    {
+      "name": "ChatGPT-512",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/ChatGPT-512.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/ChatGPT.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/Facebook.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/GitHub.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/Google.png"
+    },
+    {
+      "name": "NSFW",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/NSFW.png"
+    },
+    {
+      "name": "Pixiv",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/Pixiv.png"
+    },
+    {
+      "name": "Pixiv_2",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/Pixiv_2.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/Telegram.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/TikTok.png"
+    },
+    {
+      "name": "V-preca",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/V-preca.png"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/WhatsApp.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/X.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/YouTube.png"
+    },
+    {
+      "name": "bilibili-pink",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/bilibili-pink.png"
+    },
+    {
+      "name": "bilibili-white",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/bilibili-white.png"
+    },
+    {
+      "name": "deepseek-harness",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/deepseek-harness.png"
+    },
+    {
+      "name": "fire",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/fire.png"
+    },
+    {
+      "name": "maya",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/maya.png"
+    },
+    {
+      "name": "oldubil",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/oldubil.png"
+    },
+    {
+      "name": "ozan",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/ozan.png"
+    },
+    {
+      "name": "soul",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/soul.png"
+    },
+    {
+      "name": "uni",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/uni.png"
+    },
+    {
+      "name": "wise",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/wise.png"
+    },
+    {
+      "name": "一言",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E4%B8%80%E8%A8%80.png"
+    },
+    {
+      "name": "三井住友银行",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B%E9%93%B6%E8%A1%8C.png"
+    },
+    {
+      "name": "全局代理",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E5%85%A8%E5%B1%80%E4%BB%A3%E7%90%86.png"
+    },
+    {
+      "name": "加油",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E5%8A%A0%E6%B2%B9.png"
+    },
+    {
+      "name": "国外路由",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E5%9B%BD%E5%A4%96%E8%B7%AF%E7%94%B1.png"
+    },
+    {
+      "name": "小红书",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E5%B0%8F%E7%BA%A2%E4%B9%A6.png"
+    },
+    {
+      "name": "建行生活",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E5%BB%BA%E8%A1%8C%E7%94%9F%E6%B4%BB.png"
+    },
+    {
+      "name": "微信",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E5%BE%AE%E4%BF%A1.png"
+    },
+    {
+      "name": "摸鱼",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E6%91%B8%E9%B1%BC.png"
+    },
+    {
+      "name": "日历",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E6%97%A5%E5%8E%86.png"
+    },
+    {
+      "name": "每日",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E6%AF%8F%E6%97%A5.png"
+    },
+    {
+      "name": "波点音乐",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E6%B3%A2%E7%82%B9%E9%9F%B3%E4%B9%90.jpg"
+    },
+    {
+      "name": "热搜",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E7%83%AD%E6%90%9C.png"
+    },
+    {
+      "name": "百度",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E7%99%BE%E5%BA%A6.png"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98.png"
+    },
+    {
+      "name": "网易云",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E7%BD%91%E6%98%93%E4%BA%91.png"
+    },
+    {
+      "name": "美团",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E7%BE%8E%E5%9B%A2.png"
+    },
+    {
+      "name": "美团外卖",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96.png"
+    },
+    {
+      "name": "美国银行",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C.png"
+    },
+    {
+      "name": "豆瓣",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E8%B1%86%E7%93%A3.png"
+    },
+    {
+      "name": "贴吧",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E8%B4%B4%E5%90%A7.png"
+    },
+    {
+      "name": "钉钉",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E9%92%89%E9%92%89.png"
+    },
+    {
+      "name": "黄历-2",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E9%BB%84%E5%8E%86-2.png"
+    },
+    {
+      "name": "黄历",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E9%BB%84%E5%8E%86.png"
+    },
+    {
+      "name": "黑料-2",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E9%BB%91%E6%96%99-2.png"
+    },
+    {
+      "name": "黑料",
+      "url": "https://raw.githubusercontent.com/DeerFishSheep/icons/main/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E9%BB%91%E6%96%99.png"
+    }
+  ]
+}
